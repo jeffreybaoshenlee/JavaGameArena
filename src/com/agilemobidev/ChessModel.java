@@ -6,4 +6,5 @@ public class ChessModel{
   private int attackPower;
   private int magicPower;
   private int defencePower;
+  private int luck;
 }
