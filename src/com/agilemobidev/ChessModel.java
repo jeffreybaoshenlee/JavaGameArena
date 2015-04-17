@@ -5,4 +5,5 @@ public class ChessModel{
   private int hitpoints;
   private int attackPower;
   private int magicPower;
+  private int defencePower;
 }
