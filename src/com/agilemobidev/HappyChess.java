@@ -6,5 +6,6 @@ public class HappyChess {
         System.out.println("This line is added via GitHub's text editor.");
         System.out.println("This line is added in Netbeans.");
         System.out.println("This line is also added in Netbeans.");
+        System.out.println("This line is added in Netbeans again.");
     }
 }
